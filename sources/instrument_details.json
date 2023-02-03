@@ -1,0 +1,77 @@
+{
+   "1105669": {
+      "Country": "HK",
+      "Sector": "Utilities",
+      "Type": "ETF"
+   },
+   "2001829": {
+      "Country": "US",
+      "Sector": "Services",
+      "Type": "Option"
+   },
+   "2499258": {
+      "Country": "UK",
+      "Sector": "Technology",
+      "Type": "Option"
+   },
+   "3558193": {
+      "Country": "UK",
+      "Sector": "Finance",
+      "Type": "Option"
+   },
+   "4083077": {
+      "Country": "US",
+      "Sector": "Technology",
+      "Type": "Stock"
+   },
+   "4520069": {
+      "Country": "HK",
+      "Sector": "Technology",
+      "Type": "ETF"
+   },
+   "4571038": {
+      "Country": "VN",
+      "Sector": "Finance",
+      "Type": "Option"
+   },
+   "5413901": {
+      "Country": "US",
+      "Sector": "Services",
+      "Type": "Option"
+   },
+   "7028001": {
+      "Country": "CI",
+      "Sector": "Services",
+      "Type": "ETF"
+   },
+   "8351692": {
+      "Country": "UK",
+      "Sector": "Services",
+      "Type": "Option"
+   },
+   "8366333": {
+      "Country": "US",
+      "Sector": "Energy",
+      "Type": "Option"
+   },
+   "8404942": {
+      "Country": "UK",
+      "Sector": "Utilities",
+      "Type": "Stock"
+   },
+   "8501345": {
+      "Country": "SA",
+      "Sector": "Technology",
+      "Type": "ETF"
+   },
+   "8683737": {
+      "Country": "CI",
+      "Sector": "Technology",
+      "Type": "Stock"
+   },
+   "9490517": {
+      "Country": "UK",
+      "Sector": "Finance",
+      "Type": "ETF"
+   }
+}
